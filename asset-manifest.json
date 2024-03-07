@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/colorcards/static/css/main.f855e6bc.css",
+    "main.js": "/colorcards/static/js/main.1265ae3c.js",
+    "static/js/453.ffc1a459.chunk.js": "/colorcards/static/js/453.ffc1a459.chunk.js",
+    "static/media/logo.svg": "/colorcards/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/colorcards/index.html",
+    "main.f855e6bc.css.map": "/colorcards/static/css/main.f855e6bc.css.map",
+    "main.1265ae3c.js.map": "/colorcards/static/js/main.1265ae3c.js.map",
+    "453.ffc1a459.chunk.js.map": "/colorcards/static/js/453.ffc1a459.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1265ae3c.js"
+  ]
+}
